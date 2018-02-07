@@ -6,4 +6,4 @@ Online Backgammon Game - Chengdu Technological University
 <br/> 编译环境：Eclipse IDE for Java Developers
 <hr/>  
 
-更多项目 请点击 ## [我的项目导航](https://github.com/bzsome/mydata)
+### 点击查看更多项目 [我的项目导航](https://github.com/bzsome/mydata)
