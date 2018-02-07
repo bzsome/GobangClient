@@ -8,4 +8,4 @@ Online Backgammon Game - Chengdu Technological University
   <hr/> 
   ,[查看项目导航](https://github.com/bzsome/mydata)
   
-  [点击下载Apk](https://github.com/bzsome/VirtualApp-x326/raw/master/release.apk)
+  [查看项目导航](https://github.com/bzsome/VirtualApp-x326/raw/master/release.apk)
