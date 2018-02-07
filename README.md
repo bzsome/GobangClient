@@ -7,4 +7,5 @@ Online Backgammon Game - Chengdu Technological University
 主要功能：用户登录注册，联网在线对战，聊天室，人机对战，用户数据保存，后台用户管理
 
 编译环境：Eclipse IDE for Java Developers
+<hr>
 [查看项目导航](https://github.com/bzsome/mydata)
