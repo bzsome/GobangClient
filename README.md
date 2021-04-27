@@ -12,7 +12,7 @@
 
 ### 运行效果图
 
-<img src="./docs/images/app_main.png" title="程序主界面" width="320"><img src="./docs/images/app_create_room.png" title="创建房间" width="320"><img src="./docs/images/app_gaming.png"  title="游戏对战" width="320">
+<img src="./docs/images/app_main.png" title="程序主界面" width="320">  <img src="./docs/images/app_create_room.png" title="创建房间" width="320">  <img src="./docs/images/app_gaming.png"  title="游戏对战" width="320">
 ### 功能及玩法
 
 - 玩法（共三种）
