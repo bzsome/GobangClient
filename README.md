@@ -11,8 +11,8 @@
 - 如需在线版(服务器保存用户信息，并支持web端)，请查看Gobang04 https://github.com/bzsome/Gobang04
 
 ### 运行效果图
-
-<img src="./docs/images/app_main.png" title="程序主界面" width="320">  <img src="./docs/images/app_create_room.png" title="创建房间" width="320">  <img src="./docs/images/app_gaming.png"  title="游戏对战" width="320">
+   程序主界面  -  创建联机房间  -  游戏对战及胜负判断
+<img src="./docs/images/app_main.png" title="程序主界面" width="320">  <img src="./docs/images/app_create_room.png" title="创建房间" width="320">  <img src="./docs/images/app_gaming.png"  title="游戏对战及胜负判断" width="320">
 ### 功能及玩法
 
 - 玩法（共三种）
