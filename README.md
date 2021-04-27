@@ -10,6 +10,12 @@
 - 当前版本为离线版(支持联机对战)，不需要服务器支持，可在内外和外网环境中使用对战功能。
 - 如需在线版(服务器保存用户信息，并支持web端)，请查看Gobang04 https://github.com/bzsome/Gobang04
 
+
+### 运行效果图
+  <img src="./docs/images/app_main.png" width="50%" title="程序主界面" center='left'>
+  <img src="./docs/images/app_create_room.png" width="50%" title="创建房间" center='left'>
+  <img src="./docs/images/app_gaming.png" width="50%" title="游戏对战" center='left'>
+
 ### 功能及玩法
 
 - 玩法（共三种）
@@ -71,14 +77,6 @@
 - 联机对战时，重新游戏不需要再次加入房间
 - 联机对战时，也能使用AI智能下棋
 
-### 运行效果图
-
-- 程序主界面
-  <img src="./docs/images/app_main.png" width="50%" title="程序主界面">
-- 创建房间
-  <img src="./docs/images/app_create_room.png" width="50%" title="创建房间">
-- 游戏对战
-  <img src="./docs/images/app_gaming.png" width="50%" title="游戏对战">
 
 
 - 成都工业学院，计算机工程学院 - 软件工程
