@@ -12,9 +12,9 @@
 
 
 ### 运行效果图
-  <img src="./docs/images/app_main.png" width="45%" title="程序主界面" align='left'>
-  <img src="./docs/images/app_create_room.png" width="45%" title="创建房间" align='left'>
-  <img src="./docs/images/app_gaming.png" width="45%" title="游戏对战" align='left'>
+  <img src="./docs/images/app_main.png" width="45%" title="程序主界面">
+  <img src="./docs/images/app_create_room.png" width="45%" title="创建房间">
+  <img src="./docs/images/app_gaming.png" width="45%" title="游戏对战">
 
 ### 功能及玩法
 
