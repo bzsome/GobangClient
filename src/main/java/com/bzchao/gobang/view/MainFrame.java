@@ -16,7 +16,7 @@ public class MainFrame extends JFrame {
 
     private static final long serialVersionUID = 1L;
 
-    public static final String VERSION = "1.1.3 正式版";
+    public static final String VERSION = "1.1.4 正式版";
     public static final String BUILD_TIME = "2017.06.26.23";
     public static final String COPYRIGHT = "自主设计开发  拥有本软件所有版权";
     // 窗体大小
